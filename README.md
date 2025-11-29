@@ -32,7 +32,7 @@ DataDetox is a lightweight tool designed to help school administrators and data 
 - Install dependencies:
 
 ### File structure
-<img width="1409" alt="src/File structure.png" src="src/File structure.png">
+<img width="409" alt="src/File structure.png" src="src/File structure.png">
 
 
 
