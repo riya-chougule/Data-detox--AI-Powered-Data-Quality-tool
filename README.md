@@ -34,6 +34,16 @@ DataDetox is a lightweight tool designed to help school administrators and data 
 ### File structure
 <img width="409" alt="src/File structure.png" src="src/File structure.png">
 
+### Installation instructions
+```bash
+pip install -r requirements.txt
+git clone https://github.com/<your-username>/DataDetox.git
+cd DataDetox
+python -m venv venv
+source venv/bin/activate   # Linux/Mac
+venv\Scripts\activate      # Windows
+pip install -r requirements.txt
+```
 
 ### User interface
 
