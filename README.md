@@ -32,21 +32,8 @@ DataDetox is a lightweight tool designed to help school administrators and data 
 - Install dependencies:
 
 ### File structure
-ai-dataset-cleaner/
-│
-├── data/
-│   ├── student_attendance_dirty.csv
-│   └── student_performance_dirty.csv
-│
-├── src/
-│   ├── __init__.py
-│   ├── cleaner.py
-│   ├── ui.py
-│   └── utils.py
-│
-├── requirements.txt
-├── README.md
-└── run.py
+<img width="1409" alt="src/File structure.png" src="src/File structure.png">
+
 
 
 ```bash
