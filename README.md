@@ -35,6 +35,10 @@ DataDetox is a lightweight tool designed to help school administrators and data 
 <img width="409" alt="src/File structure.png" src="src/File structure.png">
 
 
+### User interface
+
+<img width="409" alt="src/UI-1.png" src="src/UI-1.png">
+<img width="409" alt="src/UI-2.png" src="src/UI-2.png">
 
 ```bash
 pip install -r requirements.txt
