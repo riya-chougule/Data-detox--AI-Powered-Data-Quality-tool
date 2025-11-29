@@ -1,0 +1,206 @@
+student_id,student_name,class,subject,score,grade,test_date,remarks
+1,Diego,Grade 10,English,85,,2023-08-08,Excellent
+2,Myra,Grade 8,maths,75,A,2023-04-29,
+3,Navya,Grade 9,Computer Science,100,A,2023-07-26,Average
+4,Krishna,Grade 7,Geography,45,C,2023-02-23,Good
+5,Ava,Grade 7,Computer Science,85,C,2023-03-31,Needs Improvement
+6,Myra,Grade 9,Science,65,C,2023-05-03,Excellent
+7,Anaya,Grade 10,History,55,F,2023-05-24,Average
+8,Sara,Grade 8,Math,55,A+,2023-08-28,Good
+9,Arjun,Grade 9,Computer Science,65,F,2023-05-24,Excellent
+10,Hana,Grade 6,Geography,,B,2023-06-20,Needs Improvement
+11,Aarav,Grade 9,Geography,75,C-,2023-04-23,Excellent
+12,Sai,Grade 7,Geography,100,B-,2023-09-20,Average
+13,Aadhya,Grade 7,Art,55,A+,2023-05-21,Excellent
+14,Yuki,Grade 7,Math,75,C+,2023-01-29,Average
+15,Emma,Grade 10,Geography,75,C+,2023-06-01,
+16,Riya,Grade 9,Geography,95,C+,2023-07-24,Needs Improvement
+17,Yuki,Grade 7,English,,F,2023-09-24,Good
+18,Mohammed,Grade 10,English,100,F,2023-04-16,Average
+19,Riya,Grade 8,Physical Education,55,C,2023-11-08,Average
+20,Emma,Grade 10,Art,65,A+,2023-12-18,Good
+21,Diya,Grade 6,Geography,65,F,2023-09-12,Needs Improvement
+22,Aadhya,Grade 6,Computer Science,75,F,2023-07-23,Good
+23,Diego,Grade 8,Science,,F,2023-07-31,Average
+24,Ava,Grade 6,Geography,,A,2023-04-16,
+25,Aarav,Grade 10,English,45,B-,2023-01-28,Average
+26,Anaya,Grade 7,History,65,A-,2023-07-04,Excellent
+27,Riya,Grade 7,Math,55,F,2023-08-10,Needs Improvement
+28,Ling,Grade 6,History,85,B+,2023-03-22,Good
+29,Emma,Grade 6,History,45,A,2023-04-08,
+30,Chen,Grade 8,Physical Education,,C+,2023-03-19,
+31,Hana,Grade 7,English,75,F,2023-08-08,Needs Improvement
+32,Ishaan,Grade 8,English,45,A-,2023-04-07,Needs Improvement
+33,Diya,Grade 6,Science,,D,2023-05-20,Needs Improvement
+34,Anaya,Grade 7,Art,85,F,2023-09-27,Needs Improvement
+35,Liam,Grade 10,English,85,C+,2023-05-06,Needs Improvement
+36,Ishaan,Grade 6,English,45,,2023-04-05,Excellent
+37,Mahi,Grade 6,Computer Science,75,C-,2023-01-13,Average
+38,Aarav,Grade 9,Physical Education,95,A+,2023-05-02,Excellent
+39,Aadhya,Grade 10,History,,B-,2023-12-28,Average
+40,Navya,Grade 7,Computer Science,85,B,2023-08-18,Excellent
+41,Myra,Grade 8,Computer Science,65,A-,2023-05-04,Average
+42,Mahi,Grade 7,Geography,45,B,2023-02-17,Needs Improvement
+43,Amina,Grade 6,English,,C,2023-11-13,Needs Improvement
+44,Yuki,Grade 6,Computer Science,85,D,2023-02-07,Excellent
+45,Sophia,Grade 10,History,75,A-,2023-01-07,Needs Improvement
+46,Ling,Grade 9,Computer Science,95,A+,2023-04-14,
+47,Emma,Grade 10,Computer Science,65,D,2023-07-30,Needs Improvement
+48,Chen,Grade 9,Geography,75,B-,2023-02-09,Average
+49,Sofia,Grade 10,Physical Education,75,C+,2023-06-30,Needs Improvement
+50,Diya,Grade 6,Science,65,A,2023-05-18,Average
+51,Noah,Grade 8,English,100,A-,2023-03-05,Needs Improvement
+52,Ethan,Grade 7,Art,,C-,2023-07-24,Excellent
+53,Riya,Grade 7,Art,100,C,2023-05-07,Average
+54,Elijah,Grade 7,English,100,C,2023-09-01,
+55,Lucas,Grade 7,Physical Education,55,B-,2023-05-01,
+56,Ava,Grade 7,Math,95,C,2023-02-18,Excellent
+57,Elijah,Grade 7,English,45,B,2023-12-17,
+58,Anaya,Grade 6,Science,85,A,2023-11-28,
+59,Aditya,Grade 7,Geography,55,C,2023-12-18,
+60,Liam,Grade 10,Science,65,C,2023-06-02,Needs Improvement
+61,Hana,Grade 6,Physical Education,,D,2023-09-24,Needs Improvement
+62,Myra,Grade 9,Physical Education,,A+,2023-09-25,Excellent
+63,Diya,Grade 8,Math,85,A-,2023-10-20,
+64,Sofia,Grade 7,Art,45,A-,2023-09-01,Good
+65,Chen,Grade 8,Computer Science,95,A+,2023-02-16,Excellent
+66,Hana,Grade 6,Physical Education,45,,2023-08-22,
+67,Vihaan,Grade 9,Math,85,B-,2023-07-02,
+68,Emma,Grade 10,Computer Science,85,A,2023-03-03,Needs Improvement
+69,Noah,Grade 8,Physical Education,75,B+,2023-05-09,Good
+70,Ira,Grade 6,Geography,85,C-,2023-03-22,Average
+71,Sai,Grade 7,Math,45,C,2023-06-24,Average
+72,Sai,Grade 6,maths,75,B,2023-08-06,Excellent
+73,Krishna,Grade 10,Computer Science,95,A,2023-02-08,Needs Improvement
+74,Sophia,Grade 8,Art,95,A-,2023-05-24,Needs Improvement
+75,Ishaan,Grade 8,Art,45,C-,2023-05-30,Average
+76,Arjun,Grade 6,Math,,C,2023-02-20,Excellent
+77,Ava,Grade 9,maths,,C,2023-12-21,
+78,Chen,Grade 9,English,,D,2023-10-30,Needs Improvement
+79,Mahi,Grade 8,Science,45,A+,2023-10-14,Excellent
+80,Mohammed,Grade 10,Geography,75,F,2023-03-11,Good
+81,Vihaan,Grade 9,Computer Science,55,D,2023-07-13,Excellent
+82,Liam,Grade 9,Physical Education,85,C-,2023-12-16,Excellent
+83,Sara,Grade 10,maths,75,C,2023-02-17,Average
+84,Vihaan,Grade 7,Geography,85,A-,2023-05-17,
+85,Yuki,Grade 9,Computer Science,95,A+,2023-11-18,
+86,Elijah,Grade 6,Art,45,F,2023-03-05,Good
+87,Olivia,Grade 6,Science,65,C+,2023-04-04,Excellent
+88,Olivia,Grade 7,English,,A+,2023-12-21,Needs Improvement
+89,Navya,Grade 10,Computer Science,85,F,2023-10-15,Excellent
+90,Ava,Grade 10,History,95,A-,2023-01-15,Excellent
+91,Sofia,Grade 9,Math,75,B+,2023-06-25,Average
+92,Ling,Grade 7,Art,,B,2023-06-02,Needs Improvement
+93,Ishaan,Grade 8,Physical Education,65,F,2023-07-09,
+94,Noah,Grade 8,Computer Science,95,C,2023-10-17,
+95,Ethan,Grade 6,Physical Education,85,B,2023-06-03,Excellent
+96,Myra,Grade 7,Art,95,B-,2023-01-24,
+97,Sai,Grade 6,Art,95,A,2023-09-07,
+98,Elijah,Grade 9,Math,45,D,2023-11-01,Excellent
+99,Mia,Grade 6,Math,100,C-,2023-05-05,Average
+100,Liam,Grade 8,English,100,A-,2023-07-13,Good
+101,Sara,Grade 9,Geography,85,B,2023-06-13,Average
+102,Vihaan,Grade 7,Computer Science,100,B-,2023-11-10,Average
+103,Ira,Grade 7,maths,95,F,2023-05-12,Excellent
+104,Ava,Grade 10,English,95,A-,2023-07-05,Excellent
+105,Sara,Grade 9,Math,,,2023-10-05,Needs Improvement
+106,Sophia,Grade 9,History,,A-,2023-09-03,Needs Improvement
+107,Noah,Grade 8,Geography,,A-,2023-07-09,Average
+108,Aarav,Grade 7,English,65,C-,2023-02-10,Excellent
+109,Yuki,Grade 9,Art,55,B-,2023-11-07,Needs Improvement
+110,Myra,Grade 7,Geography,95,A-,2023-03-05,
+111,Ethan,Grade 9,Physical Education,65,A+,2023-08-03,Excellent
+112,Amina,Grade 6,Art,100,,2023-04-27,Excellent
+113,Sophia,Grade 6,English,,D,2023-12-19,Needs Improvement
+114,Ling,Grade 9,Geography,85,A-,2023-09-30,Good
+115,Anaya,Grade 9,Computer Science,95,B-,2023-01-18,Needs Improvement
+116,Vihaan,Grade 10,Physical Education,75,A-,2023-06-16,Average
+117,Vivaan,Grade 10,Computer Science,85,B-,2023-05-08,Average
+118,Mahi,Grade 10,History,75,C+,2023-03-22,Average
+119,Ryia,Grade 7,Science,95,A,2023-11-24,Needs Improvement
+120,Arjun,Grade 7,Computer Science,,B-,2023-01-22,Average
+121,Ling,Grade 7,Computer Science,65,F,2023-01-16,
+122,Liam,Grade 7,English,45,A-,2023-01-09,
+123,Ira,Grade 9,Math,45,A+,2023-02-26,
+124,Hana,Grade 9,Physical Education,,B+,2023-03-11,
+125,Navya,Grade 8,History,65,B-,2023-01-27,Needs Improvement
+126,Ava,Grade 10,Math,100,A,2023-04-02,Good
+127,Anika,Grade 6,Art,95,B+,2023-03-05,Good
+128,Krishna,Grade 9,Math,,C,2023-05-20,
+129,Ishaan,Grade 6,Art,65,B,2023-12-10,Good
+130,Noah,Grade 6,English,65,,2023-06-30,Excellent
+131,Diya,Grade 7,Physical Education,,A+,2023-09-30,Good
+132,Fatima,Grade 6,Science,,C-,2023-10-15,Needs Improvement
+133,Ava,Grade 7,Math,65,,2023-11-17,Good
+134,Elijah,Grade 9,Math,,A-,2023-06-19,Average
+135,Olivia,Grade 10,Math,85,F,2023-10-07,Needs Improvement
+136,Lucas,Grade 9,Computer Science,45,,2023-11-17,Needs Improvement
+137,Aadhya,Grade 6,History,75,C+,2023-02-07,Good
+138,Aditya,Grade 8,Art,75,C+,2023-12-14,Good
+139,Navya,Grade 8,English,75,A+,2023-09-29,
+140,Vivaan,Grade 8,Computer Science,100,A-,2023-06-19,
+141,Mia,Grade 8,Computer Science,55,C+,2023-07-01,Average
+142,Aditya,Grade 6,Art,85,,2023-05-12,Needs Improvement
+143,Anika,Grade 9,Math,65,A+,2023-03-21,Needs Improvement
+144,Aditya,Grade 10,Geography,65,C-,2023-03-29,Good
+145,Sophia,Grade 8,Science,,A-,2023-06-13,Excellent
+146,Mahi,Grade 10,Computer Science,100,D,2023-08-31,Excellent
+147,Yuki,Grade 6,Physical Education,,B-,2023-02-01,Excellent
+148,Krishna,Grade 6,English,75,F,2023-05-07,Needs Improvement
+149,Hana,Grade 7,Art,,B-,2023-01-09,Needs Improvement
+150,Elijah,Grade 8,Math,,B-,2023-12-18,Average
+151,Noah,Grade 6,English,,B-,2023-02-19,Good
+152,Mia,Grade 10,English,,D,2023-07-29,
+153,Amina,Grade 7,Physical Education,45,F,2023-01-05,
+154,Ishaan,Grade 7,English,45,A+,2023-02-05,Excellent
+155,Riya,Grade 9,Computer Science,,D,2023-04-17,Good
+156,Anika,Grade 7,Computer Science,85,B,2023-01-13,Needs Improvement
+157,Yuki,Grade 7,Math,,C+,2023-04-04,Excellent
+158,Aarav,Grade 6,Geography,45,D,2023-02-17,Good
+159,Anika,Grade 8,Computer Science,45,A+,2023-09-24,Good
+160,Chen,Grade 7,Art,65,B,2023-02-06,
+161,Ryia,Grade 10,English,85,F,2023-07-10,Excellent
+162,Diego,Grade 7,Physical Education,,A-,2023-08-16,Excellent
+163,Myra,Grade 9,English,75,F,2023-02-03,Good
+164,Riya,Grade 7,Geography,,C,2023-02-24,Good
+165,Myra,Grade 9,Computer Science,75,A,2023-03-13,
+166,Ryia,Grade 10,Geography,95,F,2023-12-12,Needs Improvement
+167,Mahi,Grade 6,English,,C+,2023-01-25,
+168,Elijah,Grade 7,English,75,C+,2023-11-21,Average
+169,Aditya,Grade 7,Physical Education,,C+,2023-07-24,
+170,Vivaan,Grade 8,Physical Education,55,B+,2023-01-16,Excellent
+171,Mohammed,Grade 9,Physical Education,75,A-,2023-06-02,Needs Improvement
+172,Chen,Grade 9,Art,65,D,2023-01-26,Excellent
+173,Diego,Grade 9,Art,75,D,2023-09-24,Good
+174,Mahi,Grade 7,Geography,95,B,2023-07-22,Average
+175,Olivia,Grade 6,Math,45,C,2023-04-16,Good
+176,Vihaan,Grade 10,Computer Science,,F,2023-09-28,Needs Improvement
+177,Anaya,Grade 9,Science,95,B,2023-01-31,Average
+178,Yuki,Grade 7,Physical Education,95,B-,2023-05-03,Excellent
+179,Sofia,Grade 10,Art,65,B-,2023-05-11,Good
+180,Chen,Grade 8,Geography,75,C+,2023-02-03,
+181,Sophia,Grade 6,Science,45,A,2023-02-23,Average
+182,Sofia,Grade 8,History,95,A,2023-03-03,Excellent
+183,Elijah,Grade 9,English,45,A,2023-12-31,Average
+184,Ryia,Grade 6,History,95,B-,2023-11-10,Excellent
+185,Arjun,Grade 6,Math,55,A+,2023-07-19,
+186,Navya,Grade 7,History,,B-,2023-11-14,Needs Improvement
+187,Liam,Grade 6,Science,45,A,2023-11-10,Good
+188,Emma,Grade 10,English,65,,2023-07-17,
+189,Liam,Grade 9,Computer Science,100,C-,2023-06-29,Average
+190,Ryia,Grade 6,English,,C,2023-07-17,Needs Improvement
+191,Vihaan,Grade 9,Computer Science,,,2023-05-24,Average
+192,Mohammed,Grade 6,Geography,,B,2023-08-18,
+193,Aadhya,Grade 7,Science,95,B-,2023-07-01,Excellent
+194,Sofia,Grade 7,Geography,45,C,2023-05-22,Needs Improvement
+195,Noah,Grade 7,Physical Education,95,C+,2023-12-10,Needs Improvement
+196,Sai,Grade 9,English,75,D,2023-07-20,Good
+197,Anaya,Grade 7,Physical Education,,C-,2023-11-15,Excellent
+198,Mohammed,Grade 10,History,100,B-,2023-03-14,
+199,Sai,Grade 8,Science,100,B,2023-10-01,Needs Improvement
+200,Mia,Grade 7,English,65,B,2023-02-13,Excellent
+113,Sophia,Grade 6,English,,D,2023-12-19,Needs Improvement
+30,Chen,Grade 8,Physical Education,,C+,2023-03-19,
+183,Elijah,Grade 9,English,45,A,2023-12-31,Average
+200,Mia,Grade 7,English,65,B,2023-02-13,Excellent
+194,Sofia,Grade 7,Geography,45,C,2023-05-22,Needs Improvement

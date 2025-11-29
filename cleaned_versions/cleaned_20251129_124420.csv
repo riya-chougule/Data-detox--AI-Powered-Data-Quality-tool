@@ -1,0 +1,201 @@
+student_id,student_name,class,subject,score,grade,test_date,remarks,_score_imputed,_score_reason,_score_confidence,_grade_imputed,_grade_reason,_grade_confidence,_performance_flag_review
+1,Diego,Grade 10,English,85.0,A-,2023-08-08,Excellent,False,,1.0,True,derived_from_score,0.98,False
+2,Myra,Grade 8,Maths,75.0,A,2023-04-29,,False,,1.0,False,,1.0,False
+3,Navya,Grade 9,Computer Science,100.0,A,2023-07-26,Average,False,,1.0,False,,1.0,False
+4,Krishna,Grade 7,Geography,45.0,C,2023-02-23,Good,False,,1.0,False,,1.0,False
+5,Ava,Grade 7,Computer Science,85.0,C,2023-03-31,Needs Improvement,False,,1.0,False,,1.0,False
+6,Myra,Grade 9,Science,65.0,C,2023-05-03,Excellent,False,,1.0,False,,1.0,False
+7,Anaya,Grade 10,History,55.0,F,2023-05-24,Average,False,,1.0,False,,1.0,False
+8,Sara,Grade 8,Math,55.0,A+,2023-08-28,Good,False,,1.0,False,,1.0,False
+9,Arjun,Grade 9,Computer Science,65.0,F,2023-05-24,Excellent,False,,1.0,False,,1.0,False
+10,Hana,Grade 6,Geography,77.0,B,2023-06-20,Needs Improvement,True,estimated_from_grade_band,0.5,False,,1.0,True
+11,Aarav,Grade 9,Geography,75.0,C-,2023-04-23,Excellent,False,,1.0,False,,1.0,False
+12,Sai,Grade 7,Geography,100.0,B-,2023-09-20,Average,False,,1.0,False,,1.0,False
+13,Aadhya,Grade 7,Art,55.0,A+,2023-05-21,Excellent,False,,1.0,False,,1.0,False
+14,Yuki,Grade 7,Math,75.0,C+,2023-01-29,Average,False,,1.0,False,,1.0,False
+15,Emma,Grade 10,Geography,75.0,C+,2023-06-01,,False,,1.0,False,,1.0,False
+16,Riya,Grade 9,Geography,95.0,C+,2023-07-24,Needs Improvement,False,,1.0,False,,1.0,False
+17,Yuki,Grade 7,English,24.5,F,2023-09-24,Good,True,estimated_from_grade_band,0.5,False,,1.0,True
+18,Mohammed,Grade 10,English,100.0,F,2023-04-16,Average,False,,1.0,False,,1.0,False
+19,Riya,Grade 8,Physical Education,55.0,C,2023-11-08,Average,False,,1.0,False,,1.0,False
+20,Emma,Grade 10,Art,65.0,A+,2023-12-18,Good,False,,1.0,False,,1.0,False
+21,Diya,Grade 6,Geography,65.0,F,2023-09-12,Needs Improvement,False,,1.0,False,,1.0,False
+22,Aadhya,Grade 6,Computer Science,75.0,F,2023-07-23,Good,False,,1.0,False,,1.0,False
+23,Diego,Grade 8,Science,24.5,F,2023-07-31,Average,True,estimated_from_grade_band,0.5,False,,1.0,True
+24,Ava,Grade 6,Geography,93.0,A,2023-04-16,,True,estimated_from_grade_band,0.5,False,,1.0,True
+25,Aarav,Grade 10,English,45.0,B-,2023-01-28,Average,False,,1.0,False,,1.0,False
+26,Anaya,Grade 7,History,65.0,A-,2023-07-04,Excellent,False,,1.0,False,,1.0,False
+27,Riya,Grade 7,Math,55.0,F,2023-08-10,Needs Improvement,False,,1.0,False,,1.0,False
+28,Ling,Grade 6,History,85.0,B+,2023-03-22,Good,False,,1.0,False,,1.0,False
+29,Emma,Grade 6,History,45.0,A,2023-04-08,,False,,1.0,False,,1.0,False
+30,Chen,Grade 8,Physical Education,67.0,C+,2023-03-19,,True,estimated_from_grade_band,0.5,False,,1.0,True
+31,Hana,Grade 7,English,75.0,F,2023-08-08,Needs Improvement,False,,1.0,False,,1.0,False
+32,Ishaan,Grade 8,English,45.0,A-,2023-04-07,Needs Improvement,False,,1.0,False,,1.0,False
+33,Diya,Grade 6,Science,54.5,D,2023-05-20,Needs Improvement,True,estimated_from_grade_band,0.5,False,,1.0,True
+34,Anaya,Grade 7,Art,85.0,F,2023-09-27,Needs Improvement,False,,1.0,False,,1.0,False
+35,Liam,Grade 10,English,85.0,C+,2023-05-06,Needs Improvement,False,,1.0,False,,1.0,False
+36,Ishaan,Grade 6,English,45.0,F,2023-04-05,Excellent,False,,1.0,True,derived_from_score,0.98,False
+37,Mahi,Grade 6,Computer Science,75.0,C-,2023-01-13,Average,False,,1.0,False,,1.0,False
+38,Aarav,Grade 9,Physical Education,95.0,A+,2023-05-02,Excellent,False,,1.0,False,,1.0,False
+39,Aadhya,Grade 10,History,72.0,B-,2023-12-28,Average,True,estimated_from_grade_band,0.5,False,,1.0,True
+40,Navya,Grade 7,Computer Science,85.0,B,2023-08-18,Excellent,False,,1.0,False,,1.0,False
+41,Myra,Grade 8,Computer Science,65.0,A-,2023-05-04,Average,False,,1.0,False,,1.0,False
+42,Mahi,Grade 7,Geography,45.0,B,2023-02-17,Needs Improvement,False,,1.0,False,,1.0,False
+43,Amina,Grade 6,English,62.0,C,2023-11-13,Needs Improvement,True,estimated_from_grade_band,0.5,False,,1.0,True
+44,Yuki,Grade 6,Computer Science,85.0,D,2023-02-07,Excellent,False,,1.0,False,,1.0,False
+45,Sophia,Grade 10,History,75.0,A-,2023-01-07,Needs Improvement,False,,1.0,False,,1.0,False
+46,Ling,Grade 9,Computer Science,95.0,A+,2023-04-14,,False,,1.0,False,,1.0,False
+47,Emma,Grade 10,Computer Science,65.0,D,2023-07-30,Needs Improvement,False,,1.0,False,,1.0,False
+48,Chen,Grade 9,Geography,75.0,B-,2023-02-09,Average,False,,1.0,False,,1.0,False
+49,Sofia,Grade 10,Physical Education,75.0,C+,2023-06-30,Needs Improvement,False,,1.0,False,,1.0,False
+50,Diya,Grade 6,Science,65.0,A,2023-05-18,Average,False,,1.0,False,,1.0,False
+51,Noah,Grade 8,English,100.0,A-,2023-03-05,Needs Improvement,False,,1.0,False,,1.0,False
+52,Ethan,Grade 7,Art,,C-,2023-07-24,Excellent,False,,1.0,False,,1.0,False
+53,Riya,Grade 7,Art,100.0,C,2023-05-07,Average,False,,1.0,False,,1.0,False
+54,Elijah,Grade 7,English,100.0,C,2023-09-01,,False,,1.0,False,,1.0,False
+55,Lucas,Grade 7,Physical Education,55.0,B-,2023-05-01,,False,,1.0,False,,1.0,False
+56,Ava,Grade 7,Math,95.0,C,2023-02-18,Excellent,False,,1.0,False,,1.0,False
+57,Elijah,Grade 7,English,45.0,B,2023-12-17,,False,,1.0,False,,1.0,False
+58,Anaya,Grade 6,Science,85.0,A,2023-11-28,,False,,1.0,False,,1.0,False
+59,Aditya,Grade 7,Geography,55.0,C,2023-12-18,,False,,1.0,False,,1.0,False
+60,Liam,Grade 10,Science,65.0,C,2023-06-02,Needs Improvement,False,,1.0,False,,1.0,False
+61,Hana,Grade 6,Physical Education,54.5,D,2023-09-24,Needs Improvement,True,estimated_from_grade_band,0.5,False,,1.0,True
+62,Myra,Grade 9,Physical Education,98.5,A+,2023-09-25,Excellent,True,estimated_from_grade_band,0.5,False,,1.0,True
+63,Diya,Grade 8,Math,85.0,A-,2023-10-20,,False,,1.0,False,,1.0,False
+64,Sofia,Grade 7,Art,45.0,A-,2023-09-01,Good,False,,1.0,False,,1.0,False
+65,Chen,Grade 8,Computer Science,95.0,A+,2023-02-16,Excellent,False,,1.0,False,,1.0,False
+66,Hana,Grade 6,Physical Education,45.0,F,2023-08-22,,False,,1.0,True,derived_from_score,0.98,False
+67,Vihaan,Grade 9,Math,85.0,B-,2023-07-02,,False,,1.0,False,,1.0,False
+68,Emma,Grade 10,Computer Science,85.0,A,2023-03-03,Needs Improvement,False,,1.0,False,,1.0,False
+69,Noah,Grade 8,Physical Education,75.0,B+,2023-05-09,Good,False,,1.0,False,,1.0,False
+70,Ira,Grade 6,Geography,85.0,C-,2023-03-22,Average,False,,1.0,False,,1.0,False
+71,Sai,Grade 7,Math,45.0,C,2023-06-24,Average,False,,1.0,False,,1.0,False
+72,Sai,Grade 6,Maths,75.0,B,2023-08-06,Excellent,False,,1.0,False,,1.0,False
+73,Krishna,Grade 10,Computer Science,95.0,A,2023-02-08,Needs Improvement,False,,1.0,False,,1.0,False
+74,Sophia,Grade 8,Art,95.0,A-,2023-05-24,Needs Improvement,False,,1.0,False,,1.0,False
+75,Ishaan,Grade 8,Art,45.0,C-,2023-05-30,Average,False,,1.0,False,,1.0,False
+76,Arjun,Grade 6,Math,62.0,C,2023-02-20,Excellent,True,estimated_from_grade_band,0.5,False,,1.0,True
+77,Ava,Grade 9,Maths,62.0,C,2023-12-21,,True,estimated_from_grade_band,0.5,False,,1.0,True
+78,Chen,Grade 9,English,54.5,D,2023-10-30,Needs Improvement,True,estimated_from_grade_band,0.5,False,,1.0,True
+79,Mahi,Grade 8,Science,45.0,A+,2023-10-14,Excellent,False,,1.0,False,,1.0,False
+80,Mohammed,Grade 10,Geography,75.0,F,2023-03-11,Good,False,,1.0,False,,1.0,False
+81,Vihaan,Grade 9,Computer Science,55.0,D,2023-07-13,Excellent,False,,1.0,False,,1.0,False
+82,Liam,Grade 9,Physical Education,85.0,C-,2023-12-16,Excellent,False,,1.0,False,,1.0,False
+83,Sara,Grade 10,Maths,75.0,C,2023-02-17,Average,False,,1.0,False,,1.0,False
+84,Vihaan,Grade 7,Geography,85.0,A-,2023-05-17,,False,,1.0,False,,1.0,False
+85,Yuki,Grade 9,Computer Science,95.0,A+,2023-11-18,,False,,1.0,False,,1.0,False
+86,Elijah,Grade 6,Art,45.0,F,2023-03-05,Good,False,,1.0,False,,1.0,False
+87,Olivia,Grade 6,Science,65.0,C+,2023-04-04,Excellent,False,,1.0,False,,1.0,False
+88,Olivia,Grade 7,English,98.5,A+,2023-12-21,Needs Improvement,True,estimated_from_grade_band,0.5,False,,1.0,True
+89,Navya,Grade 10,Computer Science,85.0,F,2023-10-15,Excellent,False,,1.0,False,,1.0,False
+90,Ava,Grade 10,History,95.0,A-,2023-01-15,Excellent,False,,1.0,False,,1.0,False
+91,Sofia,Grade 9,Math,75.0,B+,2023-06-25,Average,False,,1.0,False,,1.0,False
+92,Ling,Grade 7,Art,77.0,B,2023-06-02,Needs Improvement,True,estimated_from_grade_band,0.5,False,,1.0,True
+93,Ishaan,Grade 8,Physical Education,65.0,F,2023-07-09,,False,,1.0,False,,1.0,False
+94,Noah,Grade 8,Computer Science,95.0,C,2023-10-17,,False,,1.0,False,,1.0,False
+95,Ethan,Grade 6,Physical Education,85.0,B,2023-06-03,Excellent,False,,1.0,False,,1.0,False
+96,Myra,Grade 7,Art,95.0,B-,2023-01-24,,False,,1.0,False,,1.0,False
+97,Sai,Grade 6,Art,95.0,A,2023-09-07,,False,,1.0,False,,1.0,False
+98,Elijah,Grade 9,Math,45.0,D,2023-11-01,Excellent,False,,1.0,False,,1.0,False
+99,Mia,Grade 6,Math,100.0,C-,2023-05-05,Average,False,,1.0,False,,1.0,False
+100,Liam,Grade 8,English,100.0,A-,2023-07-13,Good,False,,1.0,False,,1.0,False
+101,Sara,Grade 9,Geography,85.0,B,2023-06-13,Average,False,,1.0,False,,1.0,False
+102,Vihaan,Grade 7,Computer Science,100.0,B-,2023-11-10,Average,False,,1.0,False,,1.0,False
+103,Ira,Grade 7,Maths,95.0,F,2023-05-12,Excellent,False,,1.0,False,,1.0,False
+104,Ava,Grade 10,English,95.0,A-,2023-07-05,Excellent,False,,1.0,False,,1.0,False
+105,Sara,Grade 9,Math,,,2023-10-05,Needs Improvement,False,,1.0,False,,1.0,False
+106,Sophia,Grade 9,History,87.0,A-,2023-09-03,Needs Improvement,True,estimated_from_grade_band,0.5,False,,1.0,True
+107,Noah,Grade 8,Geography,87.0,A-,2023-07-09,Average,True,estimated_from_grade_band,0.5,False,,1.0,True
+108,Aarav,Grade 7,English,65.0,C-,2023-02-10,Excellent,False,,1.0,False,,1.0,False
+109,Yuki,Grade 9,Art,55.0,B-,2023-11-07,Needs Improvement,False,,1.0,False,,1.0,False
+110,Myra,Grade 7,Geography,95.0,A-,2023-03-05,,False,,1.0,False,,1.0,False
+111,Ethan,Grade 9,Physical Education,65.0,A+,2023-08-03,Excellent,False,,1.0,False,,1.0,False
+112,Amina,Grade 6,Art,100.0,A+,2023-04-27,Excellent,False,,1.0,True,derived_from_score,0.98,False
+113,Sophia,Grade 6,English,54.5,D,2023-12-19,Needs Improvement,True,estimated_from_grade_band,0.5,False,,1.0,True
+114,Ling,Grade 9,Geography,85.0,A-,2023-09-30,Good,False,,1.0,False,,1.0,False
+115,Anaya,Grade 9,Computer Science,95.0,B-,2023-01-18,Needs Improvement,False,,1.0,False,,1.0,False
+116,Vihaan,Grade 10,Physical Education,75.0,A-,2023-06-16,Average,False,,1.0,False,,1.0,False
+117,Vivaan,Grade 10,Computer Science,85.0,B-,2023-05-08,Average,False,,1.0,False,,1.0,False
+118,Mahi,Grade 10,History,75.0,C+,2023-03-22,Average,False,,1.0,False,,1.0,False
+119,Ryia,Grade 7,Science,95.0,A,2023-11-24,Needs Improvement,False,,1.0,False,,1.0,False
+120,Arjun,Grade 7,Computer Science,72.0,B-,2023-01-22,Average,True,estimated_from_grade_band,0.5,False,,1.0,True
+121,Ling,Grade 7,Computer Science,65.0,F,2023-01-16,,False,,1.0,False,,1.0,False
+122,Liam,Grade 7,English,45.0,A-,2023-01-09,,False,,1.0,False,,1.0,False
+123,Ira,Grade 9,Math,45.0,A+,2023-02-26,,False,,1.0,False,,1.0,False
+124,Hana,Grade 9,Physical Education,82.0,B+,2023-03-11,,True,estimated_from_grade_band,0.5,False,,1.0,True
+125,Navya,Grade 8,History,65.0,B-,2023-01-27,Needs Improvement,False,,1.0,False,,1.0,False
+126,Ava,Grade 10,Math,100.0,A,2023-04-02,Good,False,,1.0,False,,1.0,False
+127,Anika,Grade 6,Art,95.0,B+,2023-03-05,Good,False,,1.0,False,,1.0,False
+128,Krishna,Grade 9,Math,62.0,C,2023-05-20,,True,estimated_from_grade_band,0.5,False,,1.0,True
+129,Ishaan,Grade 6,Art,65.0,B,2023-12-10,Good,False,,1.0,False,,1.0,False
+130,Noah,Grade 6,English,65.0,C+,2023-06-30,Excellent,False,,1.0,True,derived_from_score,0.98,False
+131,Diya,Grade 7,Physical Education,98.5,A+,2023-09-30,Good,True,estimated_from_grade_band,0.5,False,,1.0,True
+132,Fatima,Grade 6,Science,,C-,2023-10-15,Needs Improvement,False,,1.0,False,,1.0,False
+133,Ava,Grade 7,Math,65.0,C+,2023-11-17,Good,False,,1.0,True,derived_from_score,0.98,False
+134,Elijah,Grade 9,Math,87.0,A-,2023-06-19,Average,True,estimated_from_grade_band,0.5,False,,1.0,True
+135,Olivia,Grade 10,Math,85.0,F,2023-10-07,Needs Improvement,False,,1.0,False,,1.0,False
+136,Lucas,Grade 9,Computer Science,45.0,F,2023-11-17,Needs Improvement,False,,1.0,True,derived_from_score,0.98,False
+137,Aadhya,Grade 6,History,75.0,C+,2023-02-07,Good,False,,1.0,False,,1.0,False
+138,Aditya,Grade 8,Art,75.0,C+,2023-12-14,Good,False,,1.0,False,,1.0,False
+139,Navya,Grade 8,English,75.0,A+,2023-09-29,,False,,1.0,False,,1.0,False
+140,Vivaan,Grade 8,Computer Science,100.0,A-,2023-06-19,,False,,1.0,False,,1.0,False
+141,Mia,Grade 8,Computer Science,55.0,C+,2023-07-01,Average,False,,1.0,False,,1.0,False
+142,Aditya,Grade 6,Art,85.0,A-,2023-05-12,Needs Improvement,False,,1.0,True,derived_from_score,0.98,False
+143,Anika,Grade 9,Math,65.0,A+,2023-03-21,Needs Improvement,False,,1.0,False,,1.0,False
+144,Aditya,Grade 10,Geography,65.0,C-,2023-03-29,Good,False,,1.0,False,,1.0,False
+145,Sophia,Grade 8,Science,87.0,A-,2023-06-13,Excellent,True,estimated_from_grade_band,0.5,False,,1.0,True
+146,Mahi,Grade 10,Computer Science,100.0,D,2023-08-31,Excellent,False,,1.0,False,,1.0,False
+147,Yuki,Grade 6,Physical Education,72.0,B-,2023-02-01,Excellent,True,estimated_from_grade_band,0.5,False,,1.0,True
+148,Krishna,Grade 6,English,75.0,F,2023-05-07,Needs Improvement,False,,1.0,False,,1.0,False
+149,Hana,Grade 7,Art,72.0,B-,2023-01-09,Needs Improvement,True,estimated_from_grade_band,0.5,False,,1.0,True
+150,Elijah,Grade 8,Math,72.0,B-,2023-12-18,Average,True,estimated_from_grade_band,0.5,False,,1.0,True
+151,Noah,Grade 6,English,72.0,B-,2023-02-19,Good,True,estimated_from_grade_band,0.5,False,,1.0,True
+152,Mia,Grade 10,English,54.5,D,2023-07-29,,True,estimated_from_grade_band,0.5,False,,1.0,True
+153,Amina,Grade 7,Physical Education,45.0,F,2023-01-05,,False,,1.0,False,,1.0,False
+154,Ishaan,Grade 7,English,45.0,A+,2023-02-05,Excellent,False,,1.0,False,,1.0,False
+155,Riya,Grade 9,Computer Science,54.5,D,2023-04-17,Good,True,estimated_from_grade_band,0.5,False,,1.0,True
+156,Anika,Grade 7,Computer Science,85.0,B,2023-01-13,Needs Improvement,False,,1.0,False,,1.0,False
+157,Yuki,Grade 7,Math,67.0,C+,2023-04-04,Excellent,True,estimated_from_grade_band,0.5,False,,1.0,True
+158,Aarav,Grade 6,Geography,45.0,D,2023-02-17,Good,False,,1.0,False,,1.0,False
+159,Anika,Grade 8,Computer Science,45.0,A+,2023-09-24,Good,False,,1.0,False,,1.0,False
+160,Chen,Grade 7,Art,65.0,B,2023-02-06,,False,,1.0,False,,1.0,False
+161,Ryia,Grade 10,English,85.0,F,2023-07-10,Excellent,False,,1.0,False,,1.0,False
+162,Diego,Grade 7,Physical Education,87.0,A-,2023-08-16,Excellent,True,estimated_from_grade_band,0.5,False,,1.0,True
+163,Myra,Grade 9,English,75.0,F,2023-02-03,Good,False,,1.0,False,,1.0,False
+164,Riya,Grade 7,Geography,62.0,C,2023-02-24,Good,True,estimated_from_grade_band,0.5,False,,1.0,True
+165,Myra,Grade 9,Computer Science,75.0,A,2023-03-13,,False,,1.0,False,,1.0,False
+166,Ryia,Grade 10,Geography,95.0,F,2023-12-12,Needs Improvement,False,,1.0,False,,1.0,False
+167,Mahi,Grade 6,English,67.0,C+,2023-01-25,,True,estimated_from_grade_band,0.5,False,,1.0,True
+168,Elijah,Grade 7,English,75.0,C+,2023-11-21,Average,False,,1.0,False,,1.0,False
+169,Aditya,Grade 7,Physical Education,67.0,C+,2023-07-24,,True,estimated_from_grade_band,0.5,False,,1.0,True
+170,Vivaan,Grade 8,Physical Education,55.0,B+,2023-01-16,Excellent,False,,1.0,False,,1.0,False
+171,Mohammed,Grade 9,Physical Education,75.0,A-,2023-06-02,Needs Improvement,False,,1.0,False,,1.0,False
+172,Chen,Grade 9,Art,65.0,D,2023-01-26,Excellent,False,,1.0,False,,1.0,False
+173,Diego,Grade 9,Art,75.0,D,2023-09-24,Good,False,,1.0,False,,1.0,False
+174,Mahi,Grade 7,Geography,95.0,B,2023-07-22,Average,False,,1.0,False,,1.0,False
+175,Olivia,Grade 6,Math,45.0,C,2023-04-16,Good,False,,1.0,False,,1.0,False
+176,Vihaan,Grade 10,Computer Science,24.5,F,2023-09-28,Needs Improvement,True,estimated_from_grade_band,0.5,False,,1.0,True
+177,Anaya,Grade 9,Science,95.0,B,2023-01-31,Average,False,,1.0,False,,1.0,False
+178,Yuki,Grade 7,Physical Education,95.0,B-,2023-05-03,Excellent,False,,1.0,False,,1.0,False
+179,Sofia,Grade 10,Art,65.0,B-,2023-05-11,Good,False,,1.0,False,,1.0,False
+180,Chen,Grade 8,Geography,75.0,C+,2023-02-03,,False,,1.0,False,,1.0,False
+181,Sophia,Grade 6,Science,45.0,A,2023-02-23,Average,False,,1.0,False,,1.0,False
+182,Sofia,Grade 8,History,95.0,A,2023-03-03,Excellent,False,,1.0,False,,1.0,False
+183,Elijah,Grade 9,English,45.0,A,2023-12-31,Average,False,,1.0,False,,1.0,False
+184,Ryia,Grade 6,History,95.0,B-,2023-11-10,Excellent,False,,1.0,False,,1.0,False
+185,Arjun,Grade 6,Math,55.0,A+,2023-07-19,,False,,1.0,False,,1.0,False
+186,Navya,Grade 7,History,72.0,B-,2023-11-14,Needs Improvement,True,estimated_from_grade_band,0.5,False,,1.0,True
+187,Liam,Grade 6,Science,45.0,A,2023-11-10,Good,False,,1.0,False,,1.0,False
+188,Emma,Grade 10,English,65.0,C+,2023-07-17,,False,,1.0,True,derived_from_score,0.98,False
+189,Liam,Grade 9,Computer Science,100.0,C-,2023-06-29,Average,False,,1.0,False,,1.0,False
+190,Ryia,Grade 6,English,62.0,C,2023-07-17,Needs Improvement,True,estimated_from_grade_band,0.5,False,,1.0,True
+191,Vihaan,Grade 9,Computer Science,,,2023-05-24,Average,False,,1.0,False,,1.0,False
+192,Mohammed,Grade 6,Geography,77.0,B,2023-08-18,,True,estimated_from_grade_band,0.5,False,,1.0,True
+193,Aadhya,Grade 7,Science,95.0,B-,2023-07-01,Excellent,False,,1.0,False,,1.0,False
+194,Sofia,Grade 7,Geography,45.0,C,2023-05-22,Needs Improvement,False,,1.0,False,,1.0,False
+195,Noah,Grade 7,Physical Education,95.0,C+,2023-12-10,Needs Improvement,False,,1.0,False,,1.0,False
+196,Sai,Grade 9,English,75.0,D,2023-07-20,Good,False,,1.0,False,,1.0,False
+197,Anaya,Grade 7,Physical Education,,C-,2023-11-15,Excellent,False,,1.0,False,,1.0,False
+198,Mohammed,Grade 10,History,100.0,B-,2023-03-14,,False,,1.0,False,,1.0,False
+199,Sai,Grade 8,Science,100.0,B,2023-10-01,Needs Improvement,False,,1.0,False,,1.0,False
+200,Mia,Grade 7,English,65.0,B,2023-02-13,Excellent,False,,1.0,False,,1.0,False

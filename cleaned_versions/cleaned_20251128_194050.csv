@@ -1,0 +1,38 @@
+record_id,student_name,class,attendance_status,date,notes,_score_imputed,_score_reason,_score_confidence,_grade_imputed,_grade_reason,_grade_confidence,_performance_flag_review
+1,Aarav,Grade 8,,2023-04-05,Family emergency,False,,1.0,False,,1.0,False
+2,Fatima,Grade 10,Present,2023-04-23,Late arrival,False,,1.0,False,,1.0,False
+3,Vihaan,Grade 7,Absent,2023-08-08,Excused absence,False,,1.0,False,,1.0,False
+5,Diego,Grade 6,Present,2023-06-12,Late arrival,False,,1.0,False,,1.0,False
+6,Krishna,Grade 9,Present,2023-07-21,Late arrival,False,,1.0,False,,1.0,False
+7,Mohammed,Grade 6,Excused,2023-04-16,Family emergency,False,,1.0,False,,1.0,False
+8,Vivaan,Grade 10,Excused,2023-06-08,,False,,1.0,False,,1.0,False
+9,Riya,Grade 9,Absent,2023-10-27,Family emergency,False,,1.0,False,,1.0,False
+10,Aadhya,Grade 8,,2023-06-19,Late arrival,False,,1.0,False,,1.0,False
+11,Sophia,Grade 8,Excused,2023-05-27,Late arrival,False,,1.0,False,,1.0,False
+13,Sai,Grade 6,Absent,2023-06-18,Excused absence,False,,1.0,False,,1.0,False
+14,Liam,Grade 6,Absent,2023-02-28,Family emergency,False,,1.0,False,,1.0,False
+15,Sara,Grade 8,Excused,2023-07-21,Family emergency,False,,1.0,False,,1.0,False
+17,Anika,Grade 10,Absent,2023-01-20,Late arrival,False,,1.0,False,,1.0,False
+19,Ava,Grade 6,,2023-01-13,Sick leave,False,,1.0,False,,1.0,False
+20,Elijah,Grade 8,Absent,2023-10-30,,False,,1.0,False,,1.0,False
+24,Aditya,Grade 9,Absent,2023-01-07,Late arrival,False,,1.0,False,,1.0,False
+27,Ethan,Grade 8,Late,2023-03-04,,False,,1.0,False,,1.0,False
+30,Mahi,Grade 10,Excused,2023-04-17,,False,,1.0,False,,1.0,False
+31,Ishaan,Grade 6,Absent,2023-03-26,Family emergency,False,,1.0,False,,1.0,False
+32,Amina,Grade 7,Present,2023-03-20,Sick leave,False,,1.0,False,,1.0,False
+38,Arjun,Grade 9,Present,2023-02-28,,False,,1.0,False,,1.0,False
+44,Noah,Grade 8,Excused,2023-05-11,Sick leave,False,,1.0,False,,1.0,False
+45,Navya,Grade 6,Absent,2023-01-24,Family emergency,False,,1.0,False,,1.0,False
+46,Ira,Grade 9,Excused,2023-11-22,Late arrival,False,,1.0,False,,1.0,False
+54,Hana,Grade 6,,2023-10-27,Family emergency,False,,1.0,False,,1.0,False
+62,Chen,Grade 6,Late,2023-04-19,Late arrival,False,,1.0,False,,1.0,False
+67,Emma,Grade 7,Present,2023-12-07,Sick leave,False,,1.0,False,,1.0,False
+69,Mia,Grade 7,Present,2023-11-18,,False,,1.0,False,,1.0,False
+87,Yuki,Grade 10,Absent,2023-05-02,,False,,1.0,False,,1.0,False
+95,Lucas,Grade 7,,2023-10-20,Excused absence,False,,1.0,False,,1.0,False
+107,Diya,Grade 7,Absent,2023-07-07,Late arrival,False,,1.0,False,,1.0,False
+109,Ling,Grade 6,,2023-02-05,,False,,1.0,False,,1.0,False
+111,Sofia,Grade 6,Late,2023-07-27,Excused absence,False,,1.0,False,,1.0,False
+119,Olivia,Grade 9,Absent,2023-05-10,Excused absence,False,,1.0,False,,1.0,False
+136,Myra,Grade 7,Absent,2023-04-18,Late arrival,False,,1.0,False,,1.0,False
+150,Anaya,Grade 6,,2023-10-01,Sick leave,False,,1.0,False,,1.0,False
